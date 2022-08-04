@@ -1,0 +1,12 @@
+.card {
+	border: 3px black solid;
+    width: 30%;
+    margin-top: 100px;
+}
+.cardWrapper{
+    display: flex;
+    justify-content: center;
+}
+.img{
+width: 100%;
+}
